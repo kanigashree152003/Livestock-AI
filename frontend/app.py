@@ -72,7 +72,7 @@ if user_input:
         # ---------- IMAGE MODE ----------
         if st.session_state.pending_image:
 
-            with st.spinner("🔍 Analyzing image..."):
+            with st.spinner(" Analyzing image..."):
 
                 file_bytes = st.session_state.pending_image.getvalue()
 
@@ -121,7 +121,7 @@ if user_input:
 
         # ---------- TEXT MODE ----------
         else:
-            with st.spinner("💭 Thinking..."):
+            with st.spinner(" Thinking..."):
 
                 res = requests.post(
                     f"{API_BASE}/text_query",
@@ -139,9 +139,9 @@ if user_input:
 
         # ---------- RESPONSE ----------
         formatted = (
-            f"### 🧑‍⚕️ Assistant\n\n{prediction_info}\n\n{text}"
+            f"###  Assistant\n\n{prediction_info}\n\n{text}"
             if prediction_info
-            else f"### 🧑‍⚕️ Assistant\n\n{text}"
+            else f"### Assistant\n\n{text}"
         )
 
         st.session_state.messages.append({
