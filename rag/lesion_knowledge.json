@@ -1,0 +1,36 @@
+[
+{
+"id": "abscess",
+"text": "Abscess like lesion is a bacterial infection seen in goats and sheep, usually caused by wounds or contaminated environments. It appears as swelling, pus-filled lumps, boil-like structures under the skin, and may be painful. Animals may show discomfort when touched. Treatment involves draining the abscess carefully and applying antibiotics under veterinary guidance. Prevention includes maintaining hygiene, cleaning wounds early, and avoiding dirty environments. This condition is moderately serious but manageable if treated early.",
+"metadata": {
+"disease": "Abscess Like Lesion",
+"species": ["goat","sheep"],
+"severity": "moderate",
+"contagious": false
+}
+},
+
+{
+"id": "ringworm",
+"text": "Ringworm is a fungal infection affecting goats and sheep caused by dermatophytes. It appears as circular patches, ring-shaped lesions, hair loss, rough or crusty skin, and sometimes itching. It spreads easily through contact between animals or contaminated surfaces. Treatment includes applying antifungal medication and isolating infected animals. Prevention involves keeping animals clean, maintaining dry conditions, and disinfecting equipment. This condition is mildly to moderately serious and highly contagious.",
+"metadata": {
+"disease": "Ringworm",
+"species": ["goat","sheep"],
+"severity": "moderate",
+"contagious": true
+}
+},
+
+
+{
+"id": "ulcerative_mouth",
+"text": "Ulcerative mouth lesion is a contagious viral infection affecting goats and sheep, often seen around the lips and mouth. It appears as scabs, sores, ulcers, and crusty lesions that may make eating difficult. Young animals are more commonly affected. Treatment includes applying antiseptic ointments and providing supportive care. The disease spreads through direct contact. Prevention includes vaccination, isolating infected animals, and maintaining proper hygiene. This condition is moderately serious and contagious.",
+"metadata": {
+"disease": "Ulcerative Mouth Lesion",
+"species": ["goat","sheep"],
+"severity": "moderate",
+"contagious": true
+}
+}
+]
+

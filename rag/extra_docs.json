@@ -1,0 +1,251 @@
+[
+{
+"id": "ringworm",
+"text": "Disease: Ringworm\nSymptoms: itchy patches, circular lesions, hair loss, crusty skin around eyes, face, neck\nBody parts: eye, face, skin\nCause: fungal infection (dermatophytes)\nTreatment: antifungal ointments, isolation\nPrevention: hygiene, dry environment, disinfect equipment\nKeywords: goat itchy skin, patches near eye, fungal infection"
+},
+
+{
+"id": "abscess",
+"text": "Disease: Abscess\nSymptoms: swelling, pus-filled lump, boil-like lesion, pain on touch\nBody parts: skin, neck, body\nCause: bacterial infection from wounds\nTreatment: drainage, antibiotics\nPrevention: clean wounds, hygiene\nKeywords: goat swelling lump, pus lesion"
+},
+
+{
+"id": "ulcerative_mouth",
+"text": "Disease: Ulcerative Mouth Lesion\nSymptoms: sores, scabs, crusty lesions around mouth, difficulty eating\nBody parts: mouth, lips\nCause: viral infection\nTreatment: antiseptic care, supportive treatment\nPrevention: vaccination, isolate infected animals\nKeywords: goat mouth sores, lip infection"
+},
+
+{
+"id": "foot_rot",
+"text": "Disease: Foot Rot\nSymptoms: limping, foul smell from hoof, swelling in foot, lameness\nBody parts: hoof, legs\nCause: bacterial infection in wet conditions\nTreatment: hoof trimming, antibiotics, foot baths\nPrevention: dry housing, foot hygiene\nKeywords: goat limping, hoof infection"
+},
+
+{
+"id": "sheep_pox",
+"text": "Disease: Sheep Pox\nSymptoms: fever, skin lesions, scabs, weakness\nBody parts: skin, body\nCause: viral infection\nTreatment: supportive care\nPrevention: vaccination, quarantine\nKeywords: sheep fever skin lesions"
+},
+
+{
+"id": "goat_pox",
+"text": "Disease: Goat Pox\nSymptoms: fever, nodules on skin, scabs, respiratory distress\nBody parts: skin, lungs\nCause: viral infection\nTreatment: supportive care\nPrevention: vaccination\nKeywords: goat skin nodules, fever"
+},
+
+{
+"id": "mastitis",
+"text": "Disease: Mastitis\nSymptoms: swollen udder, pain, abnormal milk, fever\nBody parts: udder\nCause: bacterial infection\nTreatment: antibiotics, udder hygiene\nPrevention: clean milking practices\nKeywords: goat udder swelling, milk infection"
+},
+
+{
+"id": "enterotoxemia",
+"text": "Disease: Enterotoxemia\nSymptoms: sudden death, diarrhea, abdominal pain\nBody parts: intestine\nCause: bacterial toxin (Clostridium)\nTreatment: emergency care\nPrevention: vaccination\nKeywords: goat sudden death, diarrhea"
+},
+
+{
+"id": "ppr",
+"text": "Disease: PPR (Peste des Petits Ruminants)\nSymptoms: fever, nasal discharge, diarrhea, mouth lesions\nBody parts: respiratory, digestive\nCause: viral infection\nTreatment: supportive care\nPrevention: vaccination\nKeywords: goat fever diarrhea nasal discharge"
+},
+
+{
+"id": "or_f",
+"text": "Disease: Orf\nSymptoms: scabby lesions on lips, mouth, udder\nBody parts: mouth, udder\nCause: viral infection\nTreatment: antiseptic care\nPrevention: hygiene\nKeywords: goat mouth scabs"
+},
+
+{
+"id": "pink_eye",
+"text": "Disease: Pink Eye\nSymptoms: redness, tearing, eye discharge, cloudiness\nBody parts: eye\nCause: bacterial infection\nTreatment: antibiotic eye drops\nPrevention: reduce dust\nKeywords: goat eye infection, watery eyes"
+},
+
+{
+"id": "coccidiosis",
+"text": "Disease: Coccidiosis\nSymptoms: diarrhea, weight loss, dehydration\nBody parts: intestine\nCause: parasite\nTreatment: anticoccidial drugs\nPrevention: clean environment\nKeywords: goat diarrhea parasite"
+},
+
+{
+"id": "worms",
+"text": "Disease: Internal Parasites\nSymptoms: weight loss, anemia, weakness\nBody parts: intestine\nCause: worms\nTreatment: deworming\nPrevention: pasture management\nKeywords: goat worms, weakness"
+},
+
+{
+"id": "lice",
+"text": "Disease: Lice Infestation\nSymptoms: itching, hair loss, scratching\nBody parts: skin\nCause: external parasites\nTreatment: insecticide\nPrevention: hygiene\nKeywords: goat itching skin"
+},
+
+{
+"id": "mites",
+"text": "Disease: Mange (Mites)\nSymptoms: severe itching, skin thickening, hair loss\nBody parts: skin\nCause: mites\nTreatment: acaricides\nPrevention: isolation\nKeywords: goat itchy skin mange"
+},
+
+{
+"id": "diarrhea",
+"text": "Disease: Diarrhea\nSymptoms: loose stool, dehydration, weakness\nBody parts: intestine\nCause: infection or diet\nTreatment: fluids, medication\nPrevention: proper feeding\nKeywords: goat loose motion"
+},
+
+{
+"id": "pneumonia",
+"text": "Disease: Pneumonia\nSymptoms: cough, breathing difficulty, nasal discharge\nBody parts: lungs\nCause: bacterial/viral\nTreatment: antibiotics\nPrevention: ventilation\nKeywords: goat breathing problem"
+},
+
+{
+"id": "bloat",
+"text": "Disease: Bloat\nSymptoms: swollen abdomen, discomfort, difficulty breathing\nBody parts: stomach\nCause: gas accumulation\nTreatment: release gas\nPrevention: proper diet\nKeywords: goat stomach swelling"
+},
+
+{
+"id": "anthrax",
+"text": "Disease: Anthrax\nSymptoms: sudden death, bleeding from openings\nBody parts: whole body\nCause: bacteria\nTreatment: not usually possible\nPrevention: vaccination\nKeywords: sudden death goat"
+},
+
+{
+"id": "rabies",
+"text": "Disease: Rabies\nSymptoms: aggression, paralysis, abnormal behavior\nBody parts: nervous system\nCause: virus\nTreatment: none\nPrevention: vaccination\nKeywords: goat abnormal behavior"
+},
+
+{
+"id": "foot_mouth",
+"text": "Disease: Foot and Mouth Disease\nSymptoms: blisters in mouth, lameness, drooling\nBody parts: mouth, feet\nCause: virus\nTreatment: supportive care\nPrevention: vaccination\nKeywords: goat mouth blisters"
+},
+
+{
+"id": "tetanus",
+"text": "Disease: Tetanus\nSymptoms: stiff muscles, difficulty walking\nBody parts: nervous system\nCause: bacteria\nTreatment: antitoxin\nPrevention: vaccination\nKeywords: goat stiff body"
+},
+
+{
+"id": "brucellosis",
+"text": "Disease: Brucellosis\nSymptoms: abortion, infertility\nBody parts: reproductive\nCause: bacteria\nTreatment: not effective\nPrevention: vaccination\nKeywords: goat abortion disease"
+},
+
+{
+"id": "ketosis",
+"text": "Disease: Ketosis\nSymptoms: weakness, reduced appetite\nBody parts: metabolic\nCause: energy imbalance\nTreatment: glucose therapy\nPrevention: balanced diet\nKeywords: goat weakness metabolism"
+},
+
+{
+"id": "milk_fever",
+"text": "Disease: Milk Fever\nSymptoms: weakness, inability to stand\nBody parts: metabolic\nCause: calcium deficiency\nTreatment: calcium injection\nPrevention: diet control\nKeywords: goat cannot stand"
+},
+
+{
+"id": "lameness",
+"text": "Disease: Lameness\nSymptoms: difficulty walking, pain\nBody parts: legs\nCause: injury or infection\nTreatment: rest, medication\nPrevention: proper flooring\nKeywords: goat limping"
+},
+
+{
+"id": "eye_worm",
+"text": "Disease: Eye Worm\nSymptoms: irritation, tearing\nBody parts: eye\nCause: parasite\nTreatment: removal\nPrevention: hygiene\nKeywords: goat eye parasite"
+},
+
+{
+"id": "nasal_bot",
+"text": "Disease: Nasal Bot\nSymptoms: sneezing, nasal discharge\nBody parts: nose\nCause: larvae\nTreatment: antiparasitic\nPrevention: control flies\nKeywords: goat nasal discharge"
+},
+
+{
+"id": "skin_allergy",
+"text": "Disease: Skin Allergy\nSymptoms: itching, redness\nBody parts: skin\nCause: allergens\nTreatment: antihistamines\nPrevention: avoid allergens\nKeywords: goat itching allergy"
+},
+
+{
+"id": "tick_fever",
+"text": "Disease: Tick Fever\nSymptoms: fever, weakness\nBody parts: blood\nCause: ticks\nTreatment: medication\nPrevention: tick control\nKeywords: goat fever ticks"
+},
+
+{
+"id": "hoof_abscess",
+"text": "Disease: Hoof Abscess\nSymptoms: swelling, pain in hoof\nBody parts: hoof\nCause: bacterial infection\nTreatment: drainage\nPrevention: clean hoof\nKeywords: goat hoof pain"
+},
+
+{
+"id": "heat_stress",
+"text": "Disease: Heat Stress\nSymptoms: panting, weakness\nBody parts: body\nCause: high temperature\nTreatment: cooling\nPrevention: shade\nKeywords: goat heat problem"
+},
+
+{
+"id": "cold_stress",
+"text": "Disease: Cold Stress\nSymptoms: shivering, weakness\nBody parts: body\nCause: cold weather\nTreatment: warmth\nPrevention: shelter\nKeywords: goat cold problem"
+},
+
+{
+"id": "poisoning",
+"text": "Disease: Poisoning\nSymptoms: sudden illness, vomiting\nBody parts: digestive\nCause: toxic plants\nTreatment: emergency care\nPrevention: avoid toxins\nKeywords: goat poisoning"
+},
+
+{
+"id": "anemia",
+"text": "Disease: Anemia\nSymptoms: pale gums, weakness\nBody parts: blood\nCause: parasites\nTreatment: supplements\nPrevention: deworming\nKeywords: goat pale gums"
+},
+
+{
+"id": "arthritis",
+"text": "Disease: Arthritis\nSymptoms: joint swelling, pain\nBody parts: joints\nCause: infection\nTreatment: medication\nPrevention: hygiene\nKeywords: goat joint pain"
+},
+
+{
+"id": "navel_ill",
+"text": "Disease: Navel Ill\nSymptoms: swelling near navel\nBody parts: navel\nCause: bacteria\nTreatment: antibiotics\nPrevention: clean birth\nKeywords: goat kid infection"
+},
+
+{
+"id": "scours",
+"text": "Disease: Scours\nSymptoms: diarrhea in kids\nBody parts: intestine\nCause: infection\nTreatment: fluids\nPrevention: hygiene\nKeywords: goat kid diarrhea"
+},
+
+{
+"id": "urinary_stones",
+"text": "Disease: Urinary Stones\nSymptoms: difficulty urinating\nBody parts: urinary\nCause: mineral imbalance\nTreatment: surgery\nPrevention: diet\nKeywords: goat urine problem"
+},
+
+{
+"id": "dermatitis",
+"text": "Disease: Dermatitis\nSymptoms: inflamed skin, redness\nBody parts: skin\nCause: infection\nTreatment: ointment\nPrevention: hygiene\nKeywords: goat skin infection"
+},
+
+{
+"id": "fungal_skin",
+"text": "Disease: Fungal Skin Infection\nSymptoms: patches, hair loss\nBody parts: skin\nCause: fungus\nTreatment: antifungal\nPrevention: dry conditions\nKeywords: goat fungal skin"
+},
+
+{
+"id": "eye_ulcer",
+"text": "Disease: Eye Ulcer\nSymptoms: cloudy eye, pain\nBody parts: eye\nCause: injury\nTreatment: medication\nPrevention: avoid trauma\nKeywords: goat eye injury"
+},
+
+{
+"id": "respiratory_infection",
+"text": "Disease: Respiratory Infection\nSymptoms: cough, nasal discharge\nBody parts: lungs\nCause: bacteria\nTreatment: antibiotics\nPrevention: ventilation\nKeywords: goat cough"
+},
+
+{
+"id": "foot_scold",
+"text": "Disease: Foot Scald\nSymptoms: redness between hooves\nBody parts: hoof\nCause: bacteria\nTreatment: foot bath\nPrevention: dry floor\nKeywords: goat hoof redness"
+},
+
+{
+"id": "abscess_internal",
+"text": "Disease: Internal Abscess\nSymptoms: hidden swelling, weakness\nBody parts: internal\nCause: bacteria\nTreatment: antibiotics\nPrevention: hygiene\nKeywords: goat internal infection"
+},
+
+{
+"id": "myiasis",
+"text": "Disease: Myiasis\nSymptoms: maggots in wounds\nBody parts: skin\nCause: flies\nTreatment: wound cleaning\nPrevention: hygiene\nKeywords: goat maggots wound"
+},
+
+{
+"id": "eczema",
+"text": "Disease: Eczema\nSymptoms: itchy red skin\nBody parts: skin\nCause: allergy\nTreatment: creams\nPrevention: avoid irritants\nKeywords: goat itchy skin"
+},
+
+{
+"id": "sunburn",
+"text": "Disease: Sunburn\nSymptoms: red skin, peeling\nBody parts: skin\nCause: sunlight\nTreatment: soothing creams\nPrevention: shade\nKeywords: goat skin burn"
+},
+
+{
+"id": "conjunctivitis",
+"text": "Disease: Conjunctivitis\nSymptoms: red eyes, discharge\nBody parts: eye\nCause: infection\nTreatment: eye drops\nPrevention: hygiene\nKeywords: goat eye redness"
+},
+
+{
+"id": "fever_general",
+"text": "Disease: Fever\nSymptoms: high temperature, weakness\nBody parts: whole body\nCause: infection\nTreatment: medication\nPrevention: hygiene\nKeywords: goat fever"
+}
+]
