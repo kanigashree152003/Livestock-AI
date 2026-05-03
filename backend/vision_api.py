@@ -42,7 +42,7 @@ index = faiss.read_index("rag/faiss.index")
 with open("rag/documents.pkl", "rb") as f:
     documents = pickle.load(f)
 
-print("✅ RAG loaded")
+print(" RAG loaded")
 
 # -------------------------------
 # CNN MODEL
@@ -90,12 +90,12 @@ def decide_mode(scores):
         return "llm"
 
 # -------------------------------
-# FLOWISE (🔥 FIXED)
+# FLOWISE 
 # -------------------------------
 def call_flowise(question, mode="general", context=None, disease=None, confidence=None):
     try:
 
-        # 🔥 IMAGE MODE FIRST (IMPORTANT)
+        # IMAGE MODE FIRST (IMPORTANT)
         if disease is not None:
             prompt = f"""
 You are a livestock veterinary assistant.
@@ -114,7 +114,7 @@ Do NOT mention other diseases.
 Do NOT say you cannot analyze images.
 """
 
-        # 🔥 RAG MODE
+        # RAG MODE
         elif mode in ["rag", "rag_warning"]:
             prompt = f"""
 You are a livestock veterinary assistant.
@@ -129,7 +129,7 @@ Answer naturally like a vet speaking to a farmer.
 Use only one disease. Do not mix diseases.
 """
 
-        # 🔥 GENERAL MODE
+        # GENERAL MODE
         else:
             prompt = f"""
 You are a livestock assistant.
@@ -183,7 +183,7 @@ def draw_yolo_boxes(img):
 # -------------------------------
 @app.get("/")
 def home():
-    return {"message": "API running ✅"}
+    return {"message": "API running "}
 
 @app.post("/detect_and_explain")
 async def detect_and_explain(
@@ -203,7 +203,7 @@ async def detect_and_explain(
     _, buffer = cv2.imencode(".jpg", img)
     img_base64 = base64.b64encode(buffer).decode()
 
-    # 🔥 RAG + IMAGE COMBINATION
+    # RAG + IMAGE COMBINATION
     combined_query = f"{disease} {query}"
 
     docs, scores = retrieve_context(combined_query)
